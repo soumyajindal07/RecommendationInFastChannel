@@ -1,0 +1,23 @@
+{
+    "english": {
+        "christmas": ["Christmas", "noel", "yuletide", "Xmas", "gift", "tree", "yule","Christmas time","festive","holiday","santa"],
+        "easter":["easter","resurrection sunday","pascha","eastertide","passover","east-wind"],
+        "newyear":["new year", "new year's eve"],
+        "boxing":["st.stephen's day","christmas box day","wren day","second day of christmas"]
+        
+    },
+    "chinese":{
+      "cny":["lunar newyear","chinese newyear","Gong Xi Fa Cai","seollal","Tet","spring festival"],
+      "winter solstice":["dongzhi","wintersolstice","december solstice","yule","hiemal solstice","midwinter"],
+      "wesak":["Vesak","wesak","buddha","enlightment","tripleblessed"]
+    },
+    "malay":{
+        "hari raya haji":["Eid al-Adha","festival of sacrifice"],
+        "raya": ["raya", "hari raya", "eid",  "feast","Eidal-Fitr","ramadhan"],
+        "muharram":["muharram","islamic newyear","al-hijra","muslim newyear"]
+    },
+    "tamil":{
+        "deepavali": ["deepavali", "diwali", "festivaloflights", "celebration", "lamp", "diya"],
+        "thaipusam":["thaipusam","Murugan","kavadi","thaipooyam"]
+    }
+}
