@@ -35,6 +35,7 @@ def recommendMoviesInFastChannel(genre: str,language: str,programme_type: str, c
         #print(recommendedMoviesIds)
         return list(set(recommendedMoviesIds))
     except Exception as e:
+        print(e)
         return recommendedMoviesIds
    
 
