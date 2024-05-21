@@ -8,7 +8,7 @@ import re
 
 COUNTRY_CODE = "MY"
 def get_holidays():    
-    key = os.environ("CALENDARIFIC_API_KEY")   
+    key = os.getenv("CALENDARIFIC_API_KEY")   
     current_date = datetime.today()  
     year = current_date.year
     month = 12 #current_date.month
